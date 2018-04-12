@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98289a3aaf0454ca6a4b48b3866202e4, type: 3}
+  m_Name: Player audio settings
+  m_EditorClassIdentifier: 
+  settings:
+  - type: 2
+    clips:
+    - {fileID: 8300000, guid: 0664079d47b914c15843cffba33971c9, type: 3}
+    volume: 0.47
+    pitchVariety: 0.44
+  - type: 3
+    clips:
+    - {fileID: 8300000, guid: 2085e71bac37b4abfb0dae0a371398e6, type: 3}
+    volume: 0.39
+    pitchVariety: 0.39
+  - type: 4
+    clips:
+    - {fileID: 8300000, guid: 1aff2875b286142e6bb3f42749b1a7ca, type: 3}
+    volume: 0.71
+    pitchVariety: 0
+  - type: 5
+    clips:
+    - {fileID: 8300000, guid: 2085e71bac37b4abfb0dae0a371398e6, type: 3}
+    volume: 0.8
+    pitchVariety: 0.39
+  - type: 6
+    clips:
+    - {fileID: 8300000, guid: acc7b2c0ff11f47008ac5ba7cd90fcb4, type: 3}
+    volume: 0.8
+    pitchVariety: 0.39
+  - type: 7
+    clips:
+    - {fileID: 8300000, guid: efdd2e9dcfbab4dc686035a7cd12b8e8, type: 3}
+    volume: 0.8
+    pitchVariety: 0.39
+  - type: 1
+    clips:
+    - {fileID: 8300000, guid: 041887d7f06cb4f13ab3c9e449b1d573, type: 3}
+    volume: 0.36
+    pitchVariety: 0.39
+  - type: 8
+    clips:
+    - {fileID: 8300000, guid: 770da9f69a871402d9986d7adf7e1e67, type: 3}
+    volume: 0.6
+    pitchVariety: 0.39
+  - type: 9
+    clips:
+    - {fileID: 8300000, guid: 695c3e645b2c145b9859a5eed81ea40e, type: 3}
+    volume: 0.36
+    pitchVariety: 0.39
+  - type: 10
+    clips:
+    - {fileID: 8300000, guid: 907c4dc671f3441c6b2d77094cae1364, type: 3}
+    volume: 0.09
+    pitchVariety: 0.4
+  - type: 0
+    clips:
+    - {fileID: 8300000, guid: a415585b198114722a0ad9221fd8c17c, type: 3}
+    volume: 0.84
+    pitchVariety: 0.4

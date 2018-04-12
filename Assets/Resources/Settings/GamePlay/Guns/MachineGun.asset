@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f5c9d59dbbda44dd8b4e01e341980f5, type: 3}
+  m_Name: MachineGun
+  m_EditorClassIdentifier: 
+  range: 20
+  damage: 15
+  multiplier: 0.1
+  channelTime: 4
+  projectileSpeed: 0.3
+  aoeRadius: 3
+  launchSound: 2
+  explodeSound: 3
+  projectileLaunchOffset: {x: 0, y: 0, z: 0}
+  projectile: {fileID: 1406161805357662, guid: 92da55d95114342ea8593a3fb1fcaebb, type: 2}
+  crosshairPrefab: {fileID: 1168940120834522, guid: 1adb5cb12c5fd4c72b33bcfe7b7a218c,
+    type: 2}
